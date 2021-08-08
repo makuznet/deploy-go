@@ -1,8 +1,9 @@
 # Golang deploy
-> This repo is a golang app deploy report
+> This repo is a Ethr golang app deploy report
 
 ## List of commands
 ```bash
+cd terraform-do
 terraform init
 terraform plan
 terraform deploy --auto-approve
